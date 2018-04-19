@@ -19,14 +19,3 @@ export function manageFriends(state = {
   }
 
 }
-
-
-
-// n manageFriends.js write a function called manageFriends
-// that takes in an action and the previous state as its argument.
-// Unlike managePresents, here our action will also have an additional property
-// called friends, sometimes an action contains multiple attributes
-// for producing a new state.
-
-// addfriend
-// removefriend
